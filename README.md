@@ -1,4 +1,4 @@
-- ???? Hi, I'm Qyus Sitha
-- ???? I'm interested in Front-End Web Development 
-- ???? I'm currently learning Front-End Web Development Learning Path
-- ????️ I'm looking to collaborate on Movie Catalogue project
+## Hi, I'm Qyus Sitha 👋
+- 🌱 I’m currently learning front-end web development
+- 👯 I’m looking to collaborate on any project
+
